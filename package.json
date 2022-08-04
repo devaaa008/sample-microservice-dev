@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devaaa008/sample-microservice-dev/issues"
   },
-  "homepage": "https://github.com/devaaa008/sample-microservice-dev#readme"
+  "homepage": "https://github.com/devaaa008/sample-microservice-dev#readme",
+  "dependencies": {
+    "apollo-graphql": "^0.9.7"
+  }
 }
